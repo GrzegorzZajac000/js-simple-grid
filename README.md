@@ -26,52 +26,24 @@ Example of usage
 index.html
 ```
 <div class="js-grid">
-    <div class="js-grid-content">
-        <div class="js-grid-item">
-	    <img src="images/1.jpg" alt="">
+	<div class="js-grid-content">
+	    <div class="js-grid-item"><img src="images/1.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/2.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/3.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/4.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/5.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/6.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/7.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/3.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/1.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/2.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/4.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/7.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/5.jpg" alt=""></div>
+	    <div class="js-grid-item"><img src="images/6.jpg" alt=""></div>
 	</div>
-	<div class="js-grid-item">
-            <img src="images/2.jpg" alt="">
-        </div>
-	<div class="js-grid-item">
-            <img src="images/3.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/4.jpg" alt="">
-	</div>
-    	<div class="js-grid-item">
-            <img src="images/5.jpg" alt="">
-        </div>
-        <div class="js-grid-item">
-            <img src="images/6.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/7.jpg" alt="">
-	</div>
-    	<div class="js-grid-item">
-            <img src="images/3.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/1.jpg" alt="">
-        </div>
-        <div class="js-grid-item">
-            <img src="images/2.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/4.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/7.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/5.jpg" alt="">
-        </div>
-    	<div class="js-grid-item">
-            <img src="images/6.jpg" alt="">
-        </div>
-    </div>
-
-    <div class="js-grid-result"></div>
+	
+	<div class="js-grid-result"></div>
 </div>
 
 <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
