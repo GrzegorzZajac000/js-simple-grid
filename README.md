@@ -99,7 +99,7 @@ script.js
 $(document).ready(function() {
     $(".js-grid").jsSimpleGrid({
         breakpoints: [1280, 800, 400],
-        grid       : [   12,   4,   2]
+        grid       : [  12,   4,   2]
     });
 });
 ```
