@@ -7,10 +7,10 @@ JS Simple Grid is lightweight plugin for grid of images.
 Install
 -------------
 Bower:
->bower install js-grid-system
+>bower install js-grid-system --save
 
 NPM:
->npm instal js-grid-system
+>npm instal js-grid-system --save
 
 
 Requirments
