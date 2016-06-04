@@ -4,9 +4,6 @@ JS Simple Grid
 JS Simple Grid is lightweight plugin for grid of images.
 
 
-----------
-
-
 Install
 -------------
 Bower:
@@ -15,16 +12,12 @@ Bower:
 NPM:
 >npm instal js-grid-system
 
-----------
-
 
 Requirments
 -------------------
 
 Only jQuery 2.x.x
 
-
-----------
 
 
 Example of usage
