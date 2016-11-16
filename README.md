@@ -3,6 +3,8 @@ JS Simple Grid
 
 JS Simple Grid is lightweight plugin for grid of images.
 
+![JS Simple Grid](https://cloud.githubusercontent.com/assets/12233796/20346555/0591c710-abfd-11e6-98cb-fa5f42e00ee7.gif)
+
 
 Install
 -------------
